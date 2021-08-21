@@ -20,15 +20,15 @@
     },
     {
       "name": "Dai Stablecoin",
-      "address": "0x001b3b4d0f3714ca98ba10f6042daebf0b1b7b6f",
-      "symbol": "DAI",`
+      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "symbol": "DAI",
       "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "name": "Tether USD",
-      "address": "0xbd21a10f619be90d6066c941b04e340841f1f989",
+      "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 80001,
@@ -46,7 +46,7 @@
      "version": {
       "major": 1,
       "minor": 0,
-      "patch": 1
+      "patch": 2
     }
 
 }
